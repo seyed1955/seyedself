@@ -11,25 +11,39 @@ sudo apt-get install libreadline-dev libconfig-dev libssl-dev lua5.2 liblua5.2-d
 ```
 
 ```bash
-# After those dependencies, lets install the bot
-cd $HOME #Do not write this if you are using c9 or not root accounts
-git clone https://github.com/BeatBotTeam/Self-Bot.git
-cd Self-Bot
+سلام 
+آموزش ساخت سلف ربات توسط 
+#alireza_pt
+در کانال آموزشي ساخت ربات ضد اسپم تلگرام به آيدي
+@create_antispam_bot
+
+
+کد ها رو در زير ميزارم طبق فيلم آموزشي عمل کنيد
+
+sudo apt-get update
+
+sudo apt-get upgrade
+
+sudo apt-get install libreadline-dev libconfig-dev libssl-dev lua5.2 liblua5.2-dev libevent-dev make unzip git redis-server g++ libjansson-dev libpython-dev expat libexpat1-dev
+
+
+git clone https://github.com/alireza1998/self_bot
+
+cd self_bot
+
+
 ./launch.sh install
-./launch.sh # Will ask you for a phone number & confirmation code.
+
+موفق باشيد
 ```
 
-BeatBot Team
+Security Team
 -----------------
 
-[Amirho3inf](http://telegram.me/amirho3inf)<br>
-[NariMan Master](http://telegram.me/nawr_i_man)<br>
-[YellowHat](http://telegram.me/yellowhat)<br>
-[FastReaCtor](http://telegram.me/fastreactor)<br>
-[ThisIsAmirh](http://telegram.me/thisisamirh)<br>
-[Mr.Puker](http://telegram.me/puker)<br>
+[HAJ PRO](http://telegram.me/alireza_PT)<br>
 
-BeatBot Team Channel
+
+Security Team Channel
 -----------------
 
-[BeatBot Team](http://telegram.me/beatbot_team)
+[my Team](http://telegram.me/create_antispam_bot)
